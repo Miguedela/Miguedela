@@ -1,6 +1,6 @@
 # Hi, I'm Miguel Ángel
 
-## A passionate frontend developer from Spain
+## A passionate fullstack developer from Spain
 
 ### Connect with me
 
