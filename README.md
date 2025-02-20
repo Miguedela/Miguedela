@@ -40,6 +40,6 @@
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" alt="NetBeans" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://miro.medium.com/v2/resize:fit:900/1*Fh66A_WboRF-nXP2atADrw.png" alt="SourceTree" width="40" height="40"/>
+  <img src="https://miro.medium.com/v2/resize:fit:900/1*Fh66A_WboRF-nXP2atADrw.png" alt="SourceTree" width="40" height="25"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" alt="VirtualBox" width="40" height="40"/>
 </p>
