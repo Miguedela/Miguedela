@@ -19,6 +19,6 @@
 
 <div align="right">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Web-%230077B5?style=for-the-badge&logo=astro&logoColor=white)](https://miguedela.github.io/portfolio/) ↗️
+[![Portfolio](https://img.shields.io/badge/Portfolio-Web-%230077B5?style=for-the-badge&logo=astro&logoColor=white)](https://miguedela.github.io/portfolio/)
 
 </div>
