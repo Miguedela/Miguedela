@@ -8,6 +8,9 @@
     <a href="https://www.linkedin.com/in/migue-dela" target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Java" width="40" height="40"/>
     </a>
+    <a href="https://miguedela.github.io/portfolio/" target="_blank">
+        Portfolio
+    </a>
 </p>
 
 ### Languages
