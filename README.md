@@ -17,4 +17,6 @@
   <img alt="github-snake" src="https://github.com/miguedela/miguedela/blob/output/github-snake-dark.svg" />
 </picture>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Web-%230077B5?style=for-the-badge&logo=astro&logoColor=white)](https://miguedela.github.io/portfolio/)<br>
+<div align="right">
+[![Portfolio](https://img.shields.io/badge/Portfolio-Web-%230077B5?style=for-the-badge&logo=astro&logoColor=white)](https://miguedela.github.io/portfolio/)
+</div>
