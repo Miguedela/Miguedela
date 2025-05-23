@@ -14,6 +14,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=miguedela&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=miguedela&icon=10&color=2)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/miguedela/miguedela/blob/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/miguedela/miguedela/blob/output/github-snake.svg" />
+  <img alt="github-snake" src="https://github.com/miguedela/miguedela/blob/output/github-snake.svg" />
+</picture>
